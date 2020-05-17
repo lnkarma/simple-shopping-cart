@@ -56,8 +56,6 @@ function Appbar({ setView }) {
   };
 
   return (
-    // <div className={classes.root}>
-    // </div>
     <>
       <HideOnScroll>
         <AppBar

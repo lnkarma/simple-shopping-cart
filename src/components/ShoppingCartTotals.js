@@ -21,8 +21,8 @@ function ShoppingCartTotals() {
     return total + totalProductPrice;
   }, 0);
   const couponDiscount = ((cartTotal * discountPercent) / 100).toFixed(2);
-  const orderTotal = (cartTotal - couponDiscount).toFixed(2);
-  const total = Number(orderTotal + deliveryCharge).toFixed(2);
+  const orderTotal = Number((cartTotal - couponDiscount).toFixed(2));
+  const total = (orderTotal + deliveryCharge).toFixed(2);
   return (
     <Card>
       <CardContent>
