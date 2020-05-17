@@ -1,0 +1,69 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+}
+* {
+	box-sizing: border-box;
+}
+.App {
+	display: flex;
+	justify-content: flex-start;
+	/* align-items: center; */
+	background-color: whitesmoke;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+	width: 90vw;
+	margin: auto;
+}
+.card {
+	padding: 1em;
+	width: 50%;
+	align-self: left;
+}
+
+@media only screen and (max-width: 319px) {
+	.card {
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 426px) {
+	.card {
+		width: calc(100% / 3);
+	}
+}
+
+@media only screen and (min-width: 824px) {
+	.card {
+		width: 25%;
+	}
+}
+
+@media only screen and (min-width: 1025px) {
+	.card {
+		width: 20%;
+	}
+}
+
+img {
+	width: 100%;
+}
+
+.cardFooter {
+	background-color: chocolate;
+	padding: 0.5em;
+}
+
+.card2 {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border-radius: 5px; /* 5px rounded corners */
+	height: 100vh;
+	width: 100vw;
+	max-width: 400px;
+	max-height: 800px;
+}

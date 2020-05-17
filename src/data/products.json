@@ -1,0 +1,107 @@
+[
+  {
+    "name": "32\" Full HD Flat Smart TV H5103 Series 3",
+    "description": "Com o Modo futebol",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fda44b12-48f7-11e6-996c-0aad52ea90db.jpeg",
+    "price": 1466.1,
+    "category_id": 1
+  },
+  {
+    "name": "40\" Full HD Flat Smart TV H5103 Series 5",
+    "description": "Usando um algoritm",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fe41bc44-48f7-11e6-a3ac-0a9a90ee83e3.jpeg",
+    "price": 1979.1,
+    "category_id": 1
+  },
+  {
+    "name": "65\" UHD 4K Flat Smart TV JU6000 Series 6",
+    "description": "Sua Smart TV vai p",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fd08d6e6-48f7-11e6-886b-0a37f4bea89f.jpeg",
+    "price": 10999.0,
+    "category_id": 1
+  },
+  {
+    "name": "Galaxy A5 2016",
+    "description": "Alta performance H",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/07b3b1d8-48f8-11e6-aa97-020adee616d7.jpeg",
+    "price": 1979.1,
+    "category_id": 2
+  },
+  {
+    "name": "Galaxy J3 2016",
+    "description": "O novo Galaxy J ap",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/08da337a-48f8-11e6-9634-02184f9c0531.jpeg",
+    "price": 899.1,
+    "category_id": 2
+  },
+  {
+    "name": "Galaxy J7 Metal",
+    "description": "Resistente o sufic",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/0903ec60-48f8-11e6-886b-0a37f4bea89f.jpeg",
+    "price": 1439.1,
+    "category_id": 2
+  },
+  {
+    "name": "Lavadora e Secadora WD103 10.1 kg Branca 127 V",
+    "description": "A tecnologia revol",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/0c733874-48f8-11e6-ad8d-02878eee0871.jpeg",
+    "price": 2136.6,
+    "category_id": 3
+  },
+  {
+    "name": "Lavadora e Secadora WD6000 9 kg Branca 127 V",
+    "description": "Economize energia ",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/0b65b97a-48f8-11e6-886b-0a37f4bea89f.jpeg",
+    "price": 2699.1,
+    "category_id": 3
+  },
+  {
+    "name": "Lavadora e Secadora WD7000 15 kg Inox Look 127V",
+    "description": "A tecnologia Eco B",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/0a233ab0-48f8-11e6-ad8d-02878eee0871.jpeg",
+    "price": 4049.1,
+    "category_id": 3
+  },
+  {
+    "name": "Samsung Essentials E22",
+    "description": "Bateria com duraçã",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fb4654d2-48f7-11e6-a3ac-0a9a90ee83e3.jpeg",
+    "price": 1624.49,
+    "category_id": 4
+  },
+  {
+    "name": "Samsung Expert X20",
+    "description": "Performance e tecn",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/f99eb282-48f7-11e6-a3ac-0a9a90ee83e3.jpeg",
+    "price": 2214.44,
+    "category_id": 4
+  },
+  {
+    "name": "Samsung Expert X51",
+    "description": "Muita rapidez na r",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/fa346368-48f7-11e6-ad8d-02878eee0871.jpeg",
+    "price": 3521.74,
+    "category_id": 4
+  },
+  {
+    "name": "Smart Camera NX30",
+    "description": "A versátil SMART C",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/03522d4a-48f8-11e6-a3ac-0a9a90ee83e3.jpeg",
+    "price": 1925.1,
+    "category_id": 5
+  },
+  {
+    "name": "Smart Camera NX300M",
+    "description": "Quando você estive",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/04a6af86-48f8-11e6-ad8d-02878eee0871.jpeg",
+    "price": 2024.1,
+    "category_id": 5
+  },
+  {
+    "name": "Smart Camera Nxmini 9-27mm",
+    "description": "Com um corpo sólid",
+    "photo": "https://simplest-meuspedidos-arquivos.s3.amazonaws.com/media/imagem_produto/133421/06cfe8d6-48f8-11e6-9634-02184f9c0531.jpeg",
+    "price": 1530.0,
+    "category_id": null
+  }
+]

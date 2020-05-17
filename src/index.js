@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import './index.css';
+import { CssBaseline } from '@material-ui/core';
+import Theme from './theme';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import CartContextProvider from './components/CartContext';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Theme>
+    <CartContextProvider>
+      <CssBaseline />
+      <App />
+    </CartContextProvider>
+  </Theme>,
   document.getElementById('root')
 );
 
