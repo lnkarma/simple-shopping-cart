@@ -92,4 +92,4 @@ ShoppingCartItem.propTypes = {
   }).isRequired,
 };
 
-export default ShoppingCartItem;
+export default React.memo(ShoppingCartItem);
